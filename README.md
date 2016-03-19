@@ -1,7 +1,7 @@
 Docker Alpine w3m
 =================
 
-Alpine linux with w3m
+Alpine linux with w3m (~14MB)
 
 I find it very useful for when I am having firewall issues with docker to simply spin this up and test connection from inside docker
 
